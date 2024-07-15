@@ -1,4 +1,4 @@
-### Chat Interface Design
+### 🔸 Chat Interface Design 🔸
 #### This project was designed using a chat page as an example.
 <br>
 
